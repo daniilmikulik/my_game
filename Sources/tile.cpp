@@ -33,20 +33,6 @@ void Board::Tile::Notify() {
     }
 }
 
-//void Tile::SetStartPoint(){
-  //  if (endPoint != false)
-  //      return;
-  //  this -> startPoint = true;
-
-//}
-
-//void Tile::SetEndPoint(){
-//    if (startPoint != false)
-//        return;
-//    this -> endPoint = true;
-
-//}
-
 int Board::Tile::GetTileInfo(){
     return object->GetTileId();
 }
