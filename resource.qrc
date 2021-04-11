@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/Resource">
+        <file>Images/finish_flag.png</file>
+        <file>Images/tower.jpg</file>
+        <file>Images/village.jpg</file>
+        <file>Images/mill.jpg</file>
+        <file>Images/lake.jpg</file>
+        <file>Images/rock.jpg</file>
+        <file>Images/field.jpg</file>
+        <file>Images/pikeman.png</file>
+        <file>Images/fortress.jpg</file>
+        <file>Images/forest.jpg</file>
+        <file>Images/grass.jpg</file>
+        <file>Images/exit.png</file>
+        <file>Images/info.png</file>
+        <file>Images/load.png</file>
+        <file>Images/save.png</file>
+        <file>Images/new_game.png</file>
+        <file>Images/enemy.png</file>
+        <file>Images/grave.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
