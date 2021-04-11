@@ -31,7 +31,6 @@ private:
     Strategy::Command* command;
     std::vector<Hero::Enemy<State, Fight>*> enemies;
     Condition* condition = nullptr;
-    //Hero::Enemy<State, Fight>* enemy;
     int mapTemplate;
 public:
     Board::Map* main_map;
